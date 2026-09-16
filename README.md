@@ -43,3 +43,41 @@ Astronomer-Figma/
 ├── assets/
 │   └── astronaut.png # High-resolution cropped astronaut visual
 └── README.md         # Project documentation
+🚀 Getting Started
+
+No build tools, bundlers, or framework installations are required.
+
+1. Open Locally
+
+Double-click index.html or open it directly in any modern web browser:
+
+bash
+
+
+
+# Windows PowerShell
+
+Start-Process index.html
+
+2. Live Server (Optional)
+
+If using VS Code or another IDE, you can serve the directory using the Live Server extension or Node serve:
+
+bash
+
+
+
+npx serve .
+
+🛠️ Tech Stack
+
+Markup: HTML5 (Semantic Structure)
+
+Styling: CSS3 (Native CSS Custom Properties, CSS Grid, Flexbox, Glassmorphism)
+
+Scripting & Animations: Vanilla JavaScript (ES6+), GSAP 3.12.5 (via CDN)
+
+Typography: Plus Jakarta Sans
+
+ (Google Fonts) 
+
